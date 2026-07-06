@@ -1,0 +1,1 @@
+export { StudentLife } from "./StudentLife";

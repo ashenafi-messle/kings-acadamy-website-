@@ -1,0 +1,8 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#0F172A"/>
+  <path d="M24 78L32 42L42 62L54 36L66 62L78 42L86 78H24Z" fill="#D4AF37"/>
+  <path d="M30 78L38 52L50 72H30Z" fill="#0F172A" opacity="0.16"/>
+  <path d="M58 72L66 52L78 78H58Z" fill="#0F172A" opacity="0.16"/>
+  <path d="M40 85H80C82.2091 85 84 86.7909 84 89V92H36V89C36 86.7909 37.7909 85 40 85Z" fill="#D4AF37"/>
+  <text x="60" y="105" text-anchor="middle" font-family="Inter, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">K</text>
+</svg>
